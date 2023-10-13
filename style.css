@@ -1,0 +1,14 @@
+body {
+    font-size: 15pt;
+    background-color: black;
+
+    
+}
+h1{
+  color:white;
+}
+h1:hover{
+  text-align:center;
+  color:orange;
+
+}
